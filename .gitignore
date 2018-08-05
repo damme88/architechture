@@ -1,0 +1,18 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.opensdf
+*.sdf
+# Compiled Dynamic libraries
+*.so
+*ipch/
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*debug/
+*release/
+*.suo
+*.aps
+*x64/
